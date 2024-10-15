@@ -1,4 +1,3 @@
-cat "downloading Miracl"
 echo "building Mircal"
 cd miracl/miracl/source/
 bash linux64

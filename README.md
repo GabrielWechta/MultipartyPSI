@@ -77,3 +77,6 @@ Compute PSI of 5 parties, each with set size 2^12 in augmented semihonest settin
 	
 ## Help
 For any questions on building or running the library, please contact [`Ni Trieu`](http://people.oregonstate.edu/~trieun/) at trieun at oregonstate dot edu
+
+## Docker Installation
+`docker build -t multiparty_psi .`
