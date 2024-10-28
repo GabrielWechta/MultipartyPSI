@@ -11,5 +11,5 @@ RUN cd thirdparty/linux && bash boost.get && bash miracl.get && bash ntl.get
 
 RUN cmake .
 RUN make -j
-# RUN sleep infinity
-RUN ./bin/frontend.exe -u
+RUN sleep infinity
+# RUN ./bin/frontend.exe -u
